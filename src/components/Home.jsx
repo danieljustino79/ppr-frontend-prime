@@ -1,9 +1,6 @@
-import {useState} from 'react';
 import { TabView, TabPanel } from 'primereact/tabview';
 
 function Home(){
-    const [activeIndex, setActiveIndex] = useState(1);
-
     return (
         <div className="tabview-demo">
             <div className="card">
