@@ -16,6 +16,20 @@ pre {
   color:white;
 }
 
+/**
+* custom table Option Button 
+*/
+.tableOptionButton button{
+  margin-right: 4px;
+}
+
+/**
+* custom component primeTag
+*/
+.tag-around{
+  margin-right: 4px;
+}
+
 
 /**
 * PrimeReact-tabview-css
