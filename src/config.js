@@ -24,4 +24,4 @@ export const menuBarItems = [
     onError={(e) => e.target.src='https://www.primefaces.org/wp-content/uploads/2020/05/placeholder.png'} 
     height="40" className="p-mr-2"></img>;
 
-export const urlApi = 'http://pocket-post-backend-prime.herokuapp.com/api/';
+export const urlApi = 'https://pocket-post-backend-prime.herokuapp.com/api/';
